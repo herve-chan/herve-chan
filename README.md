@@ -16,7 +16,7 @@
   - JavaScript              🔋🔋🪫🪫🪫
   - Python                  🔋🔋🔋🔋🪫
   - Java                    🔋🔋🪫🪫🪫  
-- **Frameworks/Librerías**: 
+- **Frameworks**: 
   - React.js
   - Node.js
   - Next.js
